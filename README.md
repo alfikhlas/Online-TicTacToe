@@ -1,7 +1,7 @@
 # Online-TicTacToe
 Online Multiplayer TicTacToe using Python with multithreading for simultaneous multiplayer match
 
-This project is part of my IPC assignment in which I was tasked to create an "online" multiplayer tictactoe game utilizing the concept of distributed system. In this project I learned how to use multithreading in order to host multiple match at once. Both server and client communicate using TCP protocol in order to make sure no match data is lost.
+This project is part of my assignment in which I was tasked to create an "online" multiplayer tictactoe game utilizing the concept of distributed system. In this project I learned how to use multithreading in order to host multiple match at once. Both server and client communicate using TCP protocol in order to make sure no match data is lost.
 
 
 
